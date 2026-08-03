@@ -1,16 +1,15 @@
-# Hi there, I'm Oratilwe Botlhale 👋
+## Hi there, I'm Oratilwe Botlhale Radikeledi (Aura for Short)
 
-## 👨‍💻 About Me
+I'm a Web Designer, Founder of **Lumora Technologies**, and an Advanced Diploma in Information Technology student with a passion for cloud computing, software engineering, and designing scalable digital solutions.
 
-I'm a **Web Designer**, **Founder of Lumora Technologies**, and an **Advanced Diploma in Information Technology** student with a passion for creating modern, user-focused digital experiences.
+I'm on a journey to become a **Cloud Architect**, building expertise in software development, cloud platforms, automation, and modern infrastructure while helping businesses create reliable, secure, and scalable applications.
 
-I enjoy designing and developing websites, learning new technologies, and building solutions that solve real-world problems. My goal is to grow into a well-rounded software engineer while helping businesses establish a strong online presence.
-
-* 🌐 Web Designer
-* 🚀 Founder of **Lumora Technologies**
-* 🎓 Completing an Advanced Diploma in Information Technology
-* 💡 Interested in Full-Stack Development, UI/UX, and Cloud Technologies
-* 📚 Always learning and building new projects
+## Current Focus
+* Cloud Computing
+* Software Engineering
+* Web Development
+* Growing Lumora Technologies
+* Continuous Learning
 
 ---
 
