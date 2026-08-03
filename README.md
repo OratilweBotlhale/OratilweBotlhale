@@ -53,7 +53,7 @@ I enjoy designing and developing websites, learning new technologies, and buildi
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/OratilweBotlhale
-* LinkedIn: https://www.linkedin.com/in/oratilwe-botlhale-radikeledi-1a133b292/)
+* LinkedIn: https://www.linkedin.com/in/oratilwe-botlhale-radikeledi-1a133b292/
 * Portfolio: https://oratilwebotlhale.github.io/PortfolioSite/
 
 ---
